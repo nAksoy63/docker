@@ -17,3 +17,4 @@ Notes and usage details for docker.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
