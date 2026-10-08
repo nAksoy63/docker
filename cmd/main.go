@@ -32,3 +32,4 @@ func Run() error {
 // drop an unused branch
 // drop an unused branch
 // guard against empty input
+// clarify the control flow
